@@ -1,4 +1,6 @@
 # transVoca
+[logo here](logo.png)
+
 #### *Transforming Your Reality for the Better!*
 
 Welcome to Transformative Vocabulary, your one stop shop to changing your reality forever.
