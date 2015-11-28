@@ -218,7 +218,7 @@ body {
   font-feature-settings: "kern", "liga", "frac", "pnum";
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  background-color: #22272a;
+  background-color: rgb(39,25,61);
   color: #ced9e0;
   font-family: "font-family: " Helvetica Neue ",Helvetica,Arial,sans-serif";
   font-size: 1em;
@@ -334,7 +334,7 @@ header {
   margin-left: auto;
   margin-right: auto;
   margin-top: 4em;
-  border-top: 2px solid #e85151;
+  border-top: 2px solid #B10A3D;
   opacity: 0;
   -webkit-transform: translateY(50px);
   -moz-transform: translateY(50px);
@@ -390,9 +390,11 @@ header #logo-container #subtitle {
   color: #e85151;
   font-weight: bold;
   font-size: 18px;
+  text-align: center;
 }
 header a {
-  color: #e85151;
+  transition: all 1s;
+  color: #E7CA0D;
   text-decoration: none;
   border: none;
   font-size: 110px;
