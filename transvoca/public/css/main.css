@@ -362,7 +362,7 @@ header #logo-container {
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 48.82117%;
+  width: 61.82117%;
 }
 header #logo-container:last-child {
   margin-right: 0;
@@ -395,6 +395,7 @@ header a {
   color: #e85151;
   text-decoration: none;
   border: none;
+  font-size: 110px;
 }
 header a:hover {
   color: #d11c1c;
@@ -496,7 +497,7 @@ header nav ul li a.bordered {
   border-top: 2px solid #fff;
   letter-spacing: -0.05em;
   margin-top: 1.2em;
-  margin-bottom: 1em;
+  margin-bottom: 20px;
 }
 @media screen and (max-width: 540px) {
   #content section.intro h1 {
@@ -514,7 +515,7 @@ header nav ul li a.bordered {
   }
 }
 #content section.intro p {
-  font-size: 2.0em;
+  font-size: 20px;
   line-height: 1.5em;
   letter-spacing: 0.02em;
 }
