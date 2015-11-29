@@ -3,7 +3,7 @@
 
 Welcome to Transformative Vocabulary, your one stop shop to changing your reality forever.
 
-Every single day, we use words that downgrade are positive emotions and intensify a lot of our negative self-talk. When we are asked how we are doing, we usually say something along the lines of "I am fine," as opposed to "I am doing awesome!" or "I am super fantastic!" Imagine what your world would look like if you changed all of your regular vocabulary, first removing all of the negative self-talk and then replacing all of the positive words that you use with amplified-words, words that are ten times more uplifting and positive than the ones you already use? Your entire reality and experience could literally change in a heartbeat.
+Every single day, we use words that downgrade our positive emotions and intensify a lot of our negative self-talk. When we are asked how we are doing, we usually say something along the lines of "I am fine," as opposed to "I am doing awesome!" or "I am super fantastic!" Imagine what your world would look like if you changed all of your regular vocabulary, first removing all of the negative self-talk and then replacing all of the positive words that you use with amplified-words, words that are ten times more uplifting and positive than the ones you already use? Your entire reality and experience could literally change in a heartbeat.
 
 Well, have no fear! Your solution is here!
 
