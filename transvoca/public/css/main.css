@@ -651,4 +651,12 @@ header nav ul li a.bordered {
   opacity: 1;
 }
 
+#search{
+  background-color: transparent;
+  color: yellow;
+  border: 3px solid yellow;
+  height: 48px;
+  width: 350px;
+}
+
 /*# sourceMappingURL=main.css.map */
