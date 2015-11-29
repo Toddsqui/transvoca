@@ -657,6 +657,11 @@ header nav ul li a.bordered {
   border: 3px solid yellow;
   height: 48px;
   width: 350px;
+  position: absolute;
+}
+
+#search p {
+  position: absolute;
 }
 
 /*# sourceMappingURL=main.css.map */
